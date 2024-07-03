@@ -1,0 +1,28 @@
+h4, h3{
+    font-family:'Source Sans Pro'; 
+    font-size: 1.5rem; 
+    text-align: center;
+    
+}
+
+p.text {
+    white-space: pre-line;
+    padding:0 10% 10px 10%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1.3rem;
+}
+
+p.text a {
+    text-decoration: none;
+}
+
+img{
+    vertical-align: middle;
+}
+
+img.point{
+    height: 2rem; 
+    width: 2rem; 
+    margin-right: 5px;
+}
+
